@@ -13,3 +13,8 @@ In this article, we analyze the adverse effects of cyber–physical attacks as w
 ### Algorithm 1 Detecting Attacks on Sensors
 ![algorithm](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/Alg1SecEventDKF.png)
 
+### Algorithm 2 Detecting Attack on a Specific Communication Link
+![algorithm](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/Alg2SecEventDKF.png)
+
+### Algorithm 3 Secure Distributed Estimation Mechanism
+![algorithm](https://github.com/majid-mazouchi/majid-mazouchi.github.io/blob/main/assets/img/Alg3SecEventDKF.png)
