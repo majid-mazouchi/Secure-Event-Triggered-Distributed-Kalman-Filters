@@ -1,5 +1,6 @@
 # Secure-Event-Triggered-Distributed-Kalman-Filters
 ## Secure Event-Triggered Distributed Kalman Filters for State Estimation Over Wireless Sensor Networks
+Published in: IEEE Transactions on Systems, Man, and Cybernetics: Systems
 
 ### [Link to paper](https://ieeexplore.ieee.org/abstract/document/9851668)
 
